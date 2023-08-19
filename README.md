@@ -27,21 +27,6 @@
 go get github.com/kenjitheman/proxy
 ```
 
-- or use git clone:
-
-```
-git clone https://github.com/kenjitheman/proxy
-```
-
-## usage
-
-- use go run:
-
-```
-cd cmd
-go run main.go
-```
-
 ## contributing
 
 - pull requests are welcome, for major changes, please open an issue first to
