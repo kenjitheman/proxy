@@ -11,11 +11,8 @@
 ## project structure:
 
 ```
-├── cmd
-│   └── main.go
 ├── go.mod
-├── proxy
-│   └── proxy.go
+├── main.go
 └── README.md
 ```
 
