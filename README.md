@@ -12,6 +12,7 @@
 
 ```
 ├── go.mod
+├── LICENSE
 ├── proxy.go
 └── README.md
 ```
