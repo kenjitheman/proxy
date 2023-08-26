@@ -12,7 +12,7 @@
 
 ```
 ├── go.mod
-├── main.go
+├── proxy.go
 └── README.md
 ```
 
