@@ -1,4 +1,4 @@
-<h2 align="center">proxy using golang</h2>
+# proxy using golang 
 
 ###
 
@@ -10,7 +10,7 @@
 
 ## project structure:
 
-```
+```go
 ├── go.mod
 ├── LICENSE
 ├── proxy.go
@@ -19,9 +19,7 @@
 
 ## installation
 
-- use go get:
-
-```
+```shell
 go get github.com/kenjitheman/proxy
 ```
 
