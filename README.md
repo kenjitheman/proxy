@@ -19,8 +19,6 @@
 
 ## installation
 
-- use go get:
-
 ```
 go get github.com/kenjitheman/proxy
 ```
