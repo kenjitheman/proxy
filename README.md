@@ -11,6 +11,8 @@
 ## Project structure:
 
 ```go
+proxy
+│
 ├── go.mod
 ├── LICENSE
 ├── proxy.go
