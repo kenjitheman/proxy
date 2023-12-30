@@ -32,4 +32,4 @@ go get github.com/kenjitheman/proxy
 
 ## License
 
-- [MIT](https://choosealicense.com/licenses/mit/)
+- [MIT](./LICENSE)
