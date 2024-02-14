@@ -1,3 +1,3 @@
-module github.com/btwkenji/proxy
+module github.com/kenjitheman/proxy
 
 go 1.21
